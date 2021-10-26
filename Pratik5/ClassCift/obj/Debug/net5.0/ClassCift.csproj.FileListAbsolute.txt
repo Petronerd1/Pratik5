@@ -1,0 +1,16 @@
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCift\bin\Debug\net5.0\ClassCift.exe
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCift\bin\Debug\net5.0\ClassCift.deps.json
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCift\bin\Debug\net5.0\ClassCift.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCift\bin\Debug\net5.0\ClassCift.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCift\bin\Debug\net5.0\ClassCift.dll
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCift\bin\Debug\net5.0\ref\ClassCift.dll
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCift\bin\Debug\net5.0\ClassCift.pdb
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCift\obj\Debug\net5.0\ClassCift.csproj.AssemblyReference.cache
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCift\obj\Debug\net5.0\ClassCift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCift\obj\Debug\net5.0\ClassCift.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCift\obj\Debug\net5.0\ClassCift.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCift\obj\Debug\net5.0\ClassCift.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCift\obj\Debug\net5.0\ClassCift.dll
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCift\obj\Debug\net5.0\ref\ClassCift.dll
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCift\obj\Debug\net5.0\ClassCift.pdb
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCift\obj\Debug\net5.0\ClassCift.genruntimeconfig.cache

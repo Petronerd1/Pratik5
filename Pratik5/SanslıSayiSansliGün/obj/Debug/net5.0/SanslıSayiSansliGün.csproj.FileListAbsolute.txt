@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik5\SanslıSayiSansliGün\bin\Debug\net5.0\SanslıSayiSansliGün.exe
+C:\Users\ULAŞ\source\repos\Pratik5\SanslıSayiSansliGün\bin\Debug\net5.0\SanslıSayiSansliGün.deps.json
+C:\Users\ULAŞ\source\repos\Pratik5\SanslıSayiSansliGün\bin\Debug\net5.0\SanslıSayiSansliGün.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik5\SanslıSayiSansliGün\bin\Debug\net5.0\SanslıSayiSansliGün.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik5\SanslıSayiSansliGün\bin\Debug\net5.0\SanslıSayiSansliGün.dll
+C:\Users\ULAŞ\source\repos\Pratik5\SanslıSayiSansliGün\bin\Debug\net5.0\ref\SanslıSayiSansliGün.dll
+C:\Users\ULAŞ\source\repos\Pratik5\SanslıSayiSansliGün\bin\Debug\net5.0\SanslıSayiSansliGün.pdb
+C:\Users\ULAŞ\source\repos\Pratik5\SanslıSayiSansliGün\obj\Debug\net5.0\SanslıSayiSansliGün.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik5\SanslıSayiSansliGün\obj\Debug\net5.0\SanslıSayiSansliGün.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik5\SanslıSayiSansliGün\obj\Debug\net5.0\SanslıSayiSansliGün.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik5\SanslıSayiSansliGün\obj\Debug\net5.0\SanslıSayiSansliGün.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik5\SanslıSayiSansliGün\obj\Debug\net5.0\SanslıSayiSansliGün.dll
+C:\Users\ULAŞ\source\repos\Pratik5\SanslıSayiSansliGün\obj\Debug\net5.0\ref\SanslıSayiSansliGün.dll
+C:\Users\ULAŞ\source\repos\Pratik5\SanslıSayiSansliGün\obj\Debug\net5.0\SanslıSayiSansliGün.pdb
+C:\Users\ULAŞ\source\repos\Pratik5\SanslıSayiSansliGün\obj\Debug\net5.0\SanslıSayiSansliGün.genruntimeconfig.cache

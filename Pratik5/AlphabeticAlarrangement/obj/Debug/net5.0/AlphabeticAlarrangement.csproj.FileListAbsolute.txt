@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik5\AlphabeticAlarrangement\bin\Debug\net5.0\AlphabeticAlarrangement.exe
+C:\Users\ULAŞ\source\repos\Pratik5\AlphabeticAlarrangement\bin\Debug\net5.0\AlphabeticAlarrangement.deps.json
+C:\Users\ULAŞ\source\repos\Pratik5\AlphabeticAlarrangement\bin\Debug\net5.0\AlphabeticAlarrangement.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik5\AlphabeticAlarrangement\bin\Debug\net5.0\AlphabeticAlarrangement.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik5\AlphabeticAlarrangement\bin\Debug\net5.0\AlphabeticAlarrangement.dll
+C:\Users\ULAŞ\source\repos\Pratik5\AlphabeticAlarrangement\bin\Debug\net5.0\ref\AlphabeticAlarrangement.dll
+C:\Users\ULAŞ\source\repos\Pratik5\AlphabeticAlarrangement\bin\Debug\net5.0\AlphabeticAlarrangement.pdb
+C:\Users\ULAŞ\source\repos\Pratik5\AlphabeticAlarrangement\obj\Debug\net5.0\AlphabeticAlarrangement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik5\AlphabeticAlarrangement\obj\Debug\net5.0\AlphabeticAlarrangement.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik5\AlphabeticAlarrangement\obj\Debug\net5.0\AlphabeticAlarrangement.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik5\AlphabeticAlarrangement\obj\Debug\net5.0\AlphabeticAlarrangement.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik5\AlphabeticAlarrangement\obj\Debug\net5.0\AlphabeticAlarrangement.dll
+C:\Users\ULAŞ\source\repos\Pratik5\AlphabeticAlarrangement\obj\Debug\net5.0\ref\AlphabeticAlarrangement.dll
+C:\Users\ULAŞ\source\repos\Pratik5\AlphabeticAlarrangement\obj\Debug\net5.0\AlphabeticAlarrangement.pdb
+C:\Users\ULAŞ\source\repos\Pratik5\AlphabeticAlarrangement\obj\Debug\net5.0\AlphabeticAlarrangement.genruntimeconfig.cache

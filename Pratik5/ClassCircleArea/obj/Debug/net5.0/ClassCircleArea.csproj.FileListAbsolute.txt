@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCircleArea\bin\Debug\net5.0\ClassCircleArea.exe
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCircleArea\bin\Debug\net5.0\ClassCircleArea.deps.json
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCircleArea\bin\Debug\net5.0\ClassCircleArea.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCircleArea\bin\Debug\net5.0\ClassCircleArea.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCircleArea\bin\Debug\net5.0\ClassCircleArea.dll
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCircleArea\bin\Debug\net5.0\ref\ClassCircleArea.dll
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCircleArea\bin\Debug\net5.0\ClassCircleArea.pdb
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCircleArea\obj\Debug\net5.0\ClassCircleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCircleArea\obj\Debug\net5.0\ClassCircleArea.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCircleArea\obj\Debug\net5.0\ClassCircleArea.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCircleArea\obj\Debug\net5.0\ClassCircleArea.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCircleArea\obj\Debug\net5.0\ClassCircleArea.dll
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCircleArea\obj\Debug\net5.0\ref\ClassCircleArea.dll
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCircleArea\obj\Debug\net5.0\ClassCircleArea.pdb
+C:\Users\ULAŞ\source\repos\Pratik5\ClassCircleArea\obj\Debug\net5.0\ClassCircleArea.genruntimeconfig.cache

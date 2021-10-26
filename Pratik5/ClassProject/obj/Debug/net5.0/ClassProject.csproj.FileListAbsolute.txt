@@ -1,0 +1,16 @@
+C:\Users\ULAŞ\source\repos\Pratik5\ClassProject\bin\Debug\net5.0\ClassProject.exe
+C:\Users\ULAŞ\source\repos\Pratik5\ClassProject\bin\Debug\net5.0\ClassProject.deps.json
+C:\Users\ULAŞ\source\repos\Pratik5\ClassProject\bin\Debug\net5.0\ClassProject.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik5\ClassProject\bin\Debug\net5.0\ClassProject.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik5\ClassProject\bin\Debug\net5.0\ClassProject.dll
+C:\Users\ULAŞ\source\repos\Pratik5\ClassProject\bin\Debug\net5.0\ref\ClassProject.dll
+C:\Users\ULAŞ\source\repos\Pratik5\ClassProject\bin\Debug\net5.0\ClassProject.pdb
+C:\Users\ULAŞ\source\repos\Pratik5\ClassProject\obj\Debug\net5.0\ClassProject.csproj.AssemblyReference.cache
+C:\Users\ULAŞ\source\repos\Pratik5\ClassProject\obj\Debug\net5.0\ClassProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik5\ClassProject\obj\Debug\net5.0\ClassProject.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik5\ClassProject\obj\Debug\net5.0\ClassProject.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik5\ClassProject\obj\Debug\net5.0\ClassProject.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik5\ClassProject\obj\Debug\net5.0\ClassProject.dll
+C:\Users\ULAŞ\source\repos\Pratik5\ClassProject\obj\Debug\net5.0\ref\ClassProject.dll
+C:\Users\ULAŞ\source\repos\Pratik5\ClassProject\obj\Debug\net5.0\ClassProject.pdb
+C:\Users\ULAŞ\source\repos\Pratik5\ClassProject\obj\Debug\net5.0\ClassProject.genruntimeconfig.cache
